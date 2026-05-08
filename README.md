@@ -1,4 +1,7 @@
-# Hi there, I'm Nabil! 👋
+# Hi there, I'm Nabil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iafC/giphy.gif" width="30px">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&width=500&lines=Information+Systems+Student;Linux+%26+Cybersecurity+Enthusiast;Future+SOC+Analyst" alt="Typing SVG" />
+</p>
 
 I'm an 18-year-old tech enthusiast deeply passionate about IT infrastructure, system administration, and cybersecurity. I am currently pursuing a degree in **Information Systems** and actively building my foundational skills in the tech landscape.
 
@@ -23,4 +26,3 @@ I'm an 18-year-old tech enthusiast deeply passionate about IT infrastructure, sy
   <img src="https://github-readme-stats.vercel.app/api?username=nabilfp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfp&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
- 
