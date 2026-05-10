@@ -10,7 +10,7 @@ I'm an 18-year-old tech enthusiast deeply passionate about IT infrastructure, sy
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" /> **Linux Enthusiast:** I spend my time exploring the Linux ecosystem (Ubuntu & Arch), customizing terminal environments, and writing *Bash scripts* to automate tasks.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" /> **Cybersecurity:** I have a strong interest in the defense side of cybersecurity, specifically learning the workflows, tools, and mindset of a **SOC Analyst**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" /> **Currently learning:** Networking fundamentals, advanced Linux administration, and security operations.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="25" /> **How to reach me:** [nabilnajwaakmal02@gmail.com](mailto:nabilnajwaakmal02@gmail.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="25" /> **How to reach me:** [nabillgithub@gmail.com](mailto:nabillgithub@gmail.com)
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
