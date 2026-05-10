@@ -5,12 +5,12 @@
 
 I'm an 18-year-old tech enthusiast deeply passionate about IT infrastructure, system administration, and cybersecurity. I am currently pursuing a degree in **Information Systems** and actively building my foundational skills in the tech landscape.
 
-### 👨‍💻 About Me
-- 🎓 **Current Focus:** Pursuing my university studies in Information Systems and continuously expanding my IT fundamentals.
-- 🐧 **Linux Enthusiast:** I spend my time exploring the Linux ecosystem (Ubuntu & Arch), customizing terminal environments, and writing *Bash scripts* to automate tasks.
-- 🛡️ **Cybersecurity:** I have a strong interest in the defense side of cybersecurity, specifically learning the workflows, tools, and mindset of a **SOC Analyst**.
-- 🌱 **Currently learning:** Networking fundamentals, advanced Linux administration, and security operations.
-- 📫 **How to reach me:** [nabilnajwaakmal02@gmail.com](mailto:nabilnajwaakmal02@gmail.com)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" /> About Me
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" /> **Current Focus:** Pursuing my university studies in Information Systems and continuously expanding my IT fundamentals.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" /> **Linux Enthusiast:** I spend my time exploring the Linux ecosystem (Ubuntu & Arch), customizing terminal environments, and writing *Bash scripts* to automate tasks.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" /> **Cybersecurity:** I have a strong interest in the defense side of cybersecurity, specifically learning the workflows, tools, and mindset of a **SOC Analyst**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" /> **Currently learning:** Networking fundamentals, advanced Linux administration, and security operations.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="25" /> **How to reach me:** [nabilnajwaakmal02@gmail.com](mailto:nabilnajwaakmal02@gmail.com)
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
