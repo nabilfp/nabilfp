@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/268646433?v=4" alt="Nabil Najwa Akmal" width="112" height="112" />
-
 <h1 align="center">Hi there, I'm Nabil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iafC/giphy.gif" width="30px" alt="👋" /></h1>
 
 <p align="center">
