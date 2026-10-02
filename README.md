@@ -56,7 +56,7 @@
 
 ---
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" alt="" /> GitHub Stats</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" alt="" /> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabilfp&show_icons=true&locale=en&hide_border=true&theme=transparent" alt="Nabil's GitHub Stats" />
