@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Nabil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iafC/giphy.gif" width="30px" alt="👋" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=10B981&width=500&height=44&vCenter=true&center=true&lines=Information+Systems+Student" alt="Information Systems Student" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3800&pause=1000&color=38BDF8&width=500&height=44&vCenter=true&center=true&lines=Linux+%26+Cybersecurity+Enthusiast" alt="Linux &amp; Cybersecurity Enthusiast" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=A78BFA&width=500&height=44&vCenter=true&center=true&lines=Future+SOC+Analyst" alt="Future SOC Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=10B981&width=500&center=true&lines=Information+Systems+Student;Linux+%26+Cybersecurity+Enthusiast;Future+SOC+Analyst" alt="Information Systems Student | Linux &amp; Cybersecurity Enthusiast | Future SOC Analyst" />
 </p>
 
 <br>
@@ -54,12 +52,13 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" alt="" /> Tech Stack &amp; Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" alt="Linux, Bash, Git, GitHub" height="42" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github&theme=dark" alt="Linux, Bash, Python, Git, GitHub" height="42" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=cyberdefenders&logoColor=white" alt="Cybersecurity" />
 </p>
 
