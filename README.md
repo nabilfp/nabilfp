@@ -50,7 +50,7 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" alt="" /> Tech Stack &amp; Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github&theme=dark" alt="Linux, Bash, Python, Git, GitHub" height="42" />
+  <img src="https://raw.githubusercontent.com/nabilfp/nabilfp/main/assets/techstack.svg" alt="Linux, Bash, Python, Git, GitHub" width="276" height="44" />
 </p>
 
 <p align="center">
