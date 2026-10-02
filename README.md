@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nabil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iafC/giphy.gif" width="30px" alt="👋" /></h1>
+<h1 align="center">Hi there, I'm Nabil! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="Waving hand" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=10B981&width=500&center=true&lines=Information+Systems+Student;Linux+%26+Cybersecurity+Enthusiast;Future+SOC+Analyst" alt="Information Systems Student | Linux &amp; Cybersecurity Enthusiast | Future SOC Analyst" />
@@ -98,5 +98,5 @@
 
 <p align="center">
   <strong>Thanks for taking the time to visit my profile!</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iafC/giphy.gif" width="24px" alt="👋" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="26" alt="Waving hand" />
 </p>
