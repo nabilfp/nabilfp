@@ -14,8 +14,6 @@
   <strong>Information Systems</strong> and actively building my foundational skills in the tech landscape.
 </p>
 
-<br>
-
 <table>
   <tr>
     <td width="210" valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="24" alt="" /> <strong>Current Focus</strong></td>
@@ -35,8 +33,6 @@
   </tr>
 </table>
 
-<br>
-
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" alt="" /> Currently Learning</h2>
 
 <p align="center">
@@ -45,12 +41,10 @@
   <img src="https://img.shields.io/badge/Security%20Operations-111827?style=for-the-badge&logo=cyberdefenders&logoColor=white" alt="Security Operations" />
 </p>
 
-<br>
-
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" alt="" /> Tech Stack &amp; Tools</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nabilfp/nabilfp/main/assets/techstack.svg" alt="Linux, Bash, Python, Git, GitHub" width="276" height="44" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github&theme=dark" alt="Linux, Bash, Python, Git, GitHub" height="42" />
 </p>
 
 <p align="center">
@@ -59,8 +53,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=cyberdefenders&logoColor=white" alt="Cybersecurity" />
 </p>
-
-<br>
 
 ---
 
@@ -76,8 +68,6 @@
   <img src="https://streak-stats.demolab.com?user=nabilfp&locale=en&hide_border=true&theme=transparent" alt="Nabil's Streak Stats" />
 </p>
 
-<br>
-
 ---
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="28" alt="" /> Let's Connect</h2>
@@ -87,8 +77,6 @@
   <a href="https://www.instagram.com/naaaa.bl/"><img src="https://img.shields.io/badge/Instagram-naaaa.bl-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/nabilfp"><img src="https://img.shields.io/badge/GitHub-nabilfp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabilfp&label=Profile%20views&color=10B981" alt="nabilfp" />
