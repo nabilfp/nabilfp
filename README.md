@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nabil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iafC/giphy.gif" width="30px" alt="👋" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&width=500&lines=Information+Systems+Student;Linux+%26+Cybersecurity+Enthusiast;Future+SOC+Analyst" alt="Information Systems Student | Linux &amp; Cybersecurity Enthusiast | Future SOC Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&width=500&center=true&lines=Information+Systems+Student;Linux+%26+Cybersecurity+Enthusiast;Future+SOC+Analyst" alt="Information Systems Student | Linux &amp; Cybersecurity Enthusiast | Future SOC Analyst" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">👋 About Me</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="30" alt="" /> About Me</h2>
 
 <p align="center">
   I'm an 18-year-old tech enthusiast deeply passionate about <strong>IT infrastructure</strong>,
@@ -27,26 +27,26 @@
 
 <table>
   <tr>
-    <td width="190" valign="middle"><strong>🎓 Current Focus</strong></td>
+    <td width="210" valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="24" alt="" /> <strong>Current Focus</strong></td>
     <td valign="middle">Pursuing my university studies in <strong>Information Systems</strong> and continuously expanding my IT fundamentals.</td>
   </tr>
   <tr>
-    <td valign="middle"><strong>🐧 Linux Enthusiast</strong></td>
+    <td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="24" alt="" /> <strong>Linux Enthusiast</strong></td>
     <td valign="middle">I spend my time exploring the Linux ecosystem, customizing terminal environments, and writing <em>Bash scripts</em> to automate tasks.</td>
   </tr>
   <tr>
-    <td valign="middle"><strong>🛡️ Cybersecurity</strong></td>
+    <td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="24" alt="" /> <strong>Cybersecurity</strong></td>
     <td valign="middle">I have a strong interest in the defense side of cybersecurity, specifically learning the workflows, tools, and mindset of a <strong>SOC Analyst</strong>.</td>
   </tr>
   <tr>
-    <td valign="middle"><strong>📬 How to reach me</strong></td>
+    <td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="24" alt="" /> <strong>How to reach me</strong></td>
     <td valign="middle"><a href="mailto:nabillgithub@gmail.com">nabillgithub@gmail.com</a> · <a href="https://www.instagram.com/naaaa.bl/">@naaaa.bl</a></td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">📚 Currently Learning</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" alt="" /> Currently Learning</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Networking%20Fundamentals-111827?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking Fundamentals" />
@@ -56,7 +56,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack &amp; Tools</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" alt="" /> Tech Stack &amp; Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark" alt="Linux, Bash, Git, GitHub" height="42" />
@@ -72,7 +72,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" alt="" /> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabilfp&show_icons=true&locale=en&hide_border=true&theme=transparent" alt="Nabil's GitHub Stats" />
@@ -88,7 +88,7 @@
 
 ---
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="28" alt="" /> Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:nabillgithub@gmail.com"><img src="https://img.shields.io/badge/Gmail-nabillgithub@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
