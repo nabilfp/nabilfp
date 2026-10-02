@@ -1,14 +1,9 @@
 <h1 align="center">Hi there, I'm Nabil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4iafC/giphy.gif" width="30px" alt="👋" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&width=500&center=true&lines=Information+Systems+Student;Linux+%26+Cybersecurity+Enthusiast;Future+SOC+Analyst" alt="Information Systems Student | Linux &amp; Cybersecurity Enthusiast | Future SOC Analyst" />
-</p>
-
-<p align="center">
-  <a href="mailto:nabillgithub@gmail.com"><img src="https://img.shields.io/badge/Email-nabillgithub@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/naaaa.bl/"><img src="https://img.shields.io/badge/Instagram-naaaa.bl-10B981?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://img.shields.io/badge/Location-East%20Java%2C%20Indonesia-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="East Java, Indonesia" />
-  <img src="https://img.shields.io/badge/University-Universitas%20Trunojoyo%20Madura-111827?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Universitas Trunojoyo Madura" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=10B981&width=500&height=44&vCenter=true&center=true&lines=Information+Systems+Student" alt="Information Systems Student" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3800&pause=1000&color=38BDF8&width=500&height=44&vCenter=true&center=true&lines=Linux+%26+Cybersecurity+Enthusiast" alt="Linux &amp; Cybersecurity Enthusiast" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1400&color=A78BFA&width=500&height=44&vCenter=true&center=true&lines=Future+SOC+Analyst" alt="Future SOC Analyst" />
 </p>
 
 <br>
